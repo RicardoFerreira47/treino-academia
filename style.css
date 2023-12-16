@@ -48,3 +48,20 @@ section>div>p{
 
 }
 
+div#voltar>a{
+    color: white;
+    font-size: 2em;
+    margin-bottom: 20px;
+    text-decoration: none;
+    cursor: pointer;
+
+
+}
+div#voltar>a:hover{
+   
+    color:red;
+    
+
+
+}
+
